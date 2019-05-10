@@ -1,5 +1,5 @@
 # MachineLearning
-forked from weizy1981/MachineLearning for the book 《机器学习 -python实战》
+forked from weizy1981/MachineLearning for the book 《机器学习 -python实战  魏贞原著》
 # Content
    * 第1章 初始机器学习
    * 第2章 python机器学习的生态圈
